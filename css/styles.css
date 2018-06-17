@@ -1,0 +1,15 @@
+body {
+    background-color: #373935;
+}
+
+main {
+    background-color: #fff;
+}
+
+#logo {
+    background-image: url("../logo.png");
+    text-indent: -9000px;
+    display: block;
+    width: 296px;
+    height: 186px;
+}
